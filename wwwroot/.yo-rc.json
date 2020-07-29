@@ -1,0 +1,11 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Plott",
+      "unitTestsEnabled": true,
+      "useAzureAppInsights": true
+    },
+    "libraryName": "botv4",
+    "generator-version": "2.15.0-preview3"
+  }
+}
